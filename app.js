@@ -1,3 +1,4 @@
+alert('Vì Cuýt đang đau bụng nên web sẽ bị xấu');
 const yourDate = new Date("2022-02-01T00:00:00"),
 music = ['ido', 'noinaycoanh', 'nguoiamphu'];
 
